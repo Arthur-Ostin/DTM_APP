@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>app-1-184964843639-ios-c3b8aae25445e1b78c5e72</string>
+                <string>fb1553938522153894</string>
+			</array>
+		</dict>
+	</array>
+    <key>FacebookAppID</key>
+    <string>1553938522153894</string>
+    <key>FacebookClientToken</key>
+    <string>f2d94d39418cdea313706af378a4e3b5</string>
+    <key>FacebookDisplayName</key>
+    <string>DTM</string>
+    <key>LSApplicationQueriesSchemes</key>
+    <array>
+      <string>fbapi</string>
+      <string>fb-messenger-share-api</string>
+    </array>
+	<key>UIAppFonts</key>
+	<array>
+		<string>Modern Era.ttf</string>
+		<string>SF-Pro.ttf</string>
+		<string>NewYork.ttf</string>
+		<string>ModernEra-Bold.otf</string>
+		<string>ModernEra-Medium.otf</string>
+	</array>
+</dict>
+</plist>
+
+
+
+
